@@ -2,7 +2,7 @@
 
 # Gardener Landscape
 
-![Gardener Logo](https://raw.githubusercontent.com/gardener/documentation/master/images/logo.svg)
+![Gardener Logo](https://raw.githubusercontent.com/gardener/documentation/master/images/logo512.png)
 
 - [Gardener Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
