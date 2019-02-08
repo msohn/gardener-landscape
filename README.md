@@ -1,10 +1,10 @@
 [![Dependency Status](https://img.shields.io/david/LFDLFoundation/lfdl-landscape.svg?style=flat-square)](https://david-dm.org/LFDLFoundation/lfdl-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/cb0bff52-871d-42c9-b46e-b3dbf8da9309/deploy-status)](https://app.netlify.com/sites/lfdllandscape/deploys)
 
-# Linux Foundation Deep Learning (LFDL) Landscape
+# Gardener Landscape
 
-![LFDL Landscape Logo](https://landscape.lfdl.io/images/left-logo.svg)
+![Gardener Logo](https://raw.githubusercontent.com/gardener/documentation/master/images/logo.svg)
 
-- [LFDL Landscape](#cloud-native-landscape)
+- [Gardener Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
